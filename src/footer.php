@@ -125,7 +125,9 @@
 
    <hr>
       <footer>
-        
+        <div class="pull-left">
+        We are open source, please contribute.
+        <a href="https://github.com/weshouldtryit/weshouldtryit.com" target="_blank"><img src="GitHub_Logo.png" class="img-responsive"></a></div>
         
          <ul class="nav navbar-nav navbar-right">
              
