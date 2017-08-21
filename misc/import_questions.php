@@ -5,8 +5,8 @@
 have longer teasing and foreplay sessions with partner
 give partner a sensual massage
 have partner give me a sensual massage
-take pictures of partner
-have pictures taken by partner
+take erotic pictures of partner
+have erotic pictures taken by partner
 take pictures of us having sex
 strip or give a lap dance to partner
 have partner strip or give me a lap dance
@@ -19,11 +19,11 @@ be watched by partner while I masturbate
 shave partner
 be shaven by partner
 watch porn together
-show partner how I like something from porn scene
-be shown what partner likes from porn
-thrust my penis between partner's breasts
+show partner something I want to try from a porn scene
+be shown what partner wants to try from porn
+thrust penis or have penis thrust between breast
 be more vocal towards partner during sex
-have partner be more vocal
+have partner be more vocal during sex
 talk dirtier to partner
 have partner talk dirtier to me
 call partner obscene words (bitch, slut, whore, etc)
@@ -41,8 +41,8 @@ be fisted by partner
 69 partner
 have partner cum in my mouth
 cum in partners mouth
-cum over partner's breasts/neck (pearl necklace)
-cum over partner's face (facial)
+cum on partner's breasts/neck (pearl necklace)
+cum on partner's face (facial)
 have partner cum on my face (facial)
 sit on partner's face and be given oral sex
 have partner sit on my face as I give oral sex
@@ -136,10 +136,10 @@ anally finger partner
 be fingered anally by partner
 anally penetrate partner
 double penetrate partner with a toy
-peg partner with a strap-on
-Be pegged by a partner with a strap-on
+peg partner with a Strap-on
+be pegged by a partner with a Strap-on
 lick partner's anus (analingus)
-be licked anally by partner
+be licked anally by partner (analingus)
 ";
 
 $group_id = 4;  //group to import
@@ -149,8 +149,8 @@ $level = 1;     //level
 $txt = "
 be bukkake'd by partner and other men
 go out in public leaking cum
-fondle partner in a public setting (restaurant/theater)
-be fondled by partner in a public setting (restaurant/theater)
+fondle partner in a public setting (restaurant/theater/bar)
+be fondled by partner in a public setting (restaurant/theater/bar)
 have my pictures shown over the internet
 double penetration by your partner and another man
 show pictures of us having sex over the internet
