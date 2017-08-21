@@ -18,7 +18,6 @@ watch partner masturbate
 be watched by partner while I masturbate
 shave partner
 be shaven by partner
-shave each other
 watch porn together
 show partner how I like something from porn scene
 be shown what partner likes from porn
@@ -30,7 +29,7 @@ have partner talk dirtier to me
 call partner obscene words (bitch, slut, whore, etc)
 be called obscene words (bitch, slut, whore, etc)by partner
 have sex while on period
-have sex while on period
+go shopping together in adult toy store
 roleplay in costumes
 wear stocking and high heels for partner during sex
 listen to romantic music while having sex
@@ -40,14 +39,14 @@ be rougher in sex towards partner
 have partner be rougher to me in sex
 be fisted by partner
 69 partner
-swallow partner's cum
-swallow partner's cum
+have partner cum in my mouth
+cum in partners mouth
 cum over partner's breasts/neck (pearl necklace)
 cum over partner's face (facial)
-cum over partner's face (facial)
-have partner cum over my face (facial)
-have partner sit on my face as I give oral sex
+have partner cum on my face (facial)
 sit on partner's face and be given oral sex
+have partner sit on my face as I give oral sex
+
 ";
 
  $group_id = 1;  //group to import
@@ -55,11 +54,11 @@ sit on partner's face and be given oral sex
     
 //toys
 $txt = "
-use dildos in sex
+use dildos during sex
 use vibrators while having sex
 wear a cock ring (vibrating/non-vibrating) during sex
 use nipple clamps
-use a butt plug while having sex with partner
+wear a butt plug while having sex with partner
 have partner use a butt plug
 use sex furniture (such as a sex swing or ramp)
 ";
@@ -136,8 +135,9 @@ be anally fisted by partner
 anally finger partner
 be fingered anally by partner
 anally penetrate partner
-double penetrate partner with me and a toy
+double penetrate partner with a toy
 peg partner with a strap-on
+Be pegged by a partner with a strap-on
 lick partner's anus (analingus)
 be licked anally by partner
 ";
@@ -148,7 +148,7 @@ $level = 1;     //level
 //group
 $txt = "
 be bukkake'd by partner and other men
-be bukkake'd by partner and other men
+go out in public leaking cum
 fondle partner in a public setting (restaurant/theater)
 be fondled by partner in a public setting (restaurant/theater)
 have my pictures shown over the internet
@@ -194,7 +194,7 @@ have partner give me a brown shower
 give partner a brown shower
 swap my cum with my partner
 suck semen out of partner's vagina or anus after sex (felching)
-suck semen out of partner's vagina or anus after sex (felching)
+
 ";
 
 $group_id = 6;  //group to import
